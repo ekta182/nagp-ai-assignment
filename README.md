@@ -284,5 +284,4 @@ Everything is in `config.py`, overridable through `.env`.
 | Missing knowledge and tool failures handled | Relevance threshold + `status: error` contract |
 | Simple, usable interface | `app/streamlit_app.py` |
 
-See `docs/sample_questions.md` for worked examples and
-`docs/demo_script.md` for the recording order.
+See `docs/sample_questions.md` for worked examples.

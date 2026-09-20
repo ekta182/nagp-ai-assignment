@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+# All generated knowledge-base artifacts (rebuilt via `python -m ingest.*`)
+data/
+.DS_Store
+.streamlit/secrets.toml
+# Local per-machine Claude Code settings (keep shared .claude/settings.json)
+.claude/settings.local.json
+# Python packaging / test / tooling caches
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
